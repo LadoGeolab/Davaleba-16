@@ -184,7 +184,7 @@ extension FirstPage: AddThing {
         }
     }
 }
-
+//
 extension FirstPage: ChangeText2 {
     func changeText(_ new_txt: String, _ index1: Int, _ index2: Int) {
         self.dismiss(animated: true) {
